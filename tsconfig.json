@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noUnusedLocals": true,
+    "noEmit": true,
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext"
+  },
+  "include": ["src"],
+  "ts-node": {
+    "esm": true
+  }
+}
